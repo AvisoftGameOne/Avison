@@ -8,10 +8,10 @@ Simply follow the games you would like to recieve content from. Only games that 
 
 ### Features
 
-In-App Messaging
-Post content to specific games
-Recieve content from only the games you want
-Follow and Unfollow games
+- In-App Messaging
+- Post content to specific games
+- Recieve content from only the games you want
+- Follow and Unfollow games
 
 
 ### Support or Contact
